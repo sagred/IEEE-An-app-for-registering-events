@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202392105255",
+    "firebase_url": "https://ieee-c1fac.firebaseio.com",
+    "project_id": "ieee-c1fac",
+    "storage_bucket": "ieee-c1fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202392105255:android:8a29c9663db7517ab9b902",
+        "android_client_info": {
+          "package_name": "com.ieee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202392105255-6lkr6dh23c3psgi0ghj3d5lmbkt9cr79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgjHkCIC8ey41SeRWxywG_zA3f83AcYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202392105255-6lkr6dh23c3psgi0ghj3d5lmbkt9cr79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
