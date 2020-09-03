@@ -2,7 +2,7 @@
 ### In this app the events can be added and people can register.
 
 
-![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png)
+![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png = 100x20)
 
 
 
