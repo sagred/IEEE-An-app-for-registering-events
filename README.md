@@ -3,6 +3,7 @@
 
 
 ![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png = 250x)
+<img src="(https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png" width="200"/>
 
 
 
