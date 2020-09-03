@@ -1,25 +1,25 @@
 # IEEE
-In this app the events can be added and people can register.
+### In this app the events can be added and people can register.
 
 
 ![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png)
 
 
 
-It has the benifits of IEEE and joining link
+### It has the benifits of IEEE and joining link
 
 
 ![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203937.png)
 
 
 
-One can propose ideas using this app.
+### One can propose ideas using this app.
 
 
 ![Image description](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203942.png)
 
 
-It has speacial login feature for IEEE members
+### It has speacial login feature for IEEE members
 
 
 
@@ -28,7 +28,7 @@ It has speacial login feature for IEEE members
 
 
 
-One will recieve Push Notifications(for updates and alerts)
+### One will recieve Push Notifications(for updates and alerts)
 
 
 
