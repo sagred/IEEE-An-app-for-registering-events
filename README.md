@@ -1,6 +1,6 @@
 # IEEE
 ### In this app the events can be added and people can register.
-<img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png"  width="250" height="50">
+<img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png"  width="50" height="250">
 
 ![](https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203932.png | width=100)
 
