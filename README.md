@@ -6,9 +6,6 @@
 ### It has the benifits of IEEE and joining link
 <img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203937.png"  width="350" height="700">
 
-### One can propose ideas using this app.
-<img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203942.png"  width="350" height="700">
-
 ### It has speacial login feature for IEEE members
 <img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203946.png"  width="350" height="700">
 
