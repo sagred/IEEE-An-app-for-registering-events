@@ -1,6 +1,6 @@
 # IEEE
 
-## Welcome 👋
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![proj](https://img.shields.io/badge/React-Native-blue.svg?cacheSeconds=2592000)  
 
