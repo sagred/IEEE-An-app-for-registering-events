@@ -16,4 +16,4 @@
 <img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-203946.png"  width="350" height="700"> 
 
 ### One will recieve Push Notifications(for updates and alerts)
-<img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-232618.png"  width="350" height="700"> <img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-232627.png"  width="350" height="700">
+<img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-232618.png"  width="350" height="700"> ............... <img src="https://github.com/SagRed/IEEE/blob/master/App%20Screenshots/Screenshot_20200514-232627.png"  width="350" height="700">
